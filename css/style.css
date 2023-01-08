@@ -1,0 +1,49 @@
+body{
+  color:#fff;
+  font-size:20px;
+}
+input{    
+  width: 35%;
+  border: 0px;
+  font-size: 20pt;
+  background: none;
+  border-bottom: 1px solid #fff;
+  height: 24px;}
+
+  input::placeholder {
+    color: #fff;
+    font-size: 1.2em;
+    font-style: italic;
+  }
+.hello{
+  position: absolute;
+  top: 64%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.hidden {
+  display: none;
+}
+img{width: 100%;}
+
+.time{
+  font-size: 30px;
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  font-size: 50px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#weather{
+  font-size: 30px;
+  color: #fff;
+  position: absolute;
+  top: 1%;
+  font-size: 15px;
+  right:1%;
+}
+#todo-form{
+  margin-top: 50px;
+}

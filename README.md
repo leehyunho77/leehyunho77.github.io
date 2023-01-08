@@ -1,1 +1,3 @@
-# leehyunho77.github.io
+# Javascript For Beginners
+
+Learning Javascript by Making a Productivity App
